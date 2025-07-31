@@ -16,8 +16,8 @@ International License. See [https://creativecommons.org/licenses/by-sa/4.0/](htt
 
     Apple1 Prom-Replacement
 
-    - Version 1: Eprom and other parts invisible on bottom
-    - Version 2: Eprom on top for easy exchange when testing software
+    - Version 1: Eprom and other parts invisible on the bottom side
+    - Version 2: Eprom on top for easy exchange when developing/testing software
     - connect GND+A8-A11 on the bottom for 256 bytes image.
     - connect A8-A11 to the Apple1 board (at the 74s257 outputs) for 4KB image (Krusader)
     - Enable Jumper to disable if e.g. IECmem-card holds F000.FFFF ROM
