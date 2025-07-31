@@ -1,0 +1,32 @@
+Partlist
+
+Exported from a1-prom-development.sch at 29.07.25 10:12
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device            Package          Library  Sheet
+
+A8                      PAD_2X1           PAD_2X1          _smd     1
+A9                      PAD_2X1           PAD_2X1          _smd     1
+A10                     PAD_2X1           PAD_2X1          _smd     1
+A11                     PAD_2X1           PAD_2X1          _smd     1
+A12                     PAD_2X1           PAD_2X1          _smd     1
+A13                     PAD_2X1           PAD_2X1          _smd     1
+A14                     PAD_2X1           PAD_2X1          _smd     1
+C1       100n           C_CERAMIC_0603    0603             _smd     1
+IC1      27/29C256/512  27C256/512_AMP    PLCC32_AMP       _smd     1
+ICA1     A1             MMI6301-1_PIN9-16 _DIL16ROUND_9-16 _smd     1
+ICA2     A2             MMI6301-1         _DIL16ROUND      _smd     1
+J1       Enable         JUMPER            _PINHEAD2        _smd     1
+J2       A12            JUMPER            _PINHEAD2        _smd     1
+J3       A15            JUMPER            _PINHEAD2        _smd     1
+P1       GND            PAD_2X1           PAD_2X1          _smd     1
+P2       GND            PAD_2X1           PAD_2X1          _smd     1
+R1       10k            RESISTOR_0603     0603             _smd     1
+R2       10k            RESISTOR_0603     0603             _smd     1
+R3       10k            RESISTOR_0603     0603             _smd     1
+R4       10k            RESISTOR_0603     0603             _smd     1
+R5       10k            RESISTOR_0603     0603             _smd     1
+R6       10k            RESISTOR_0603     0603             _smd     1
