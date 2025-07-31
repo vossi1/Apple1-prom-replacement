@@ -32,9 +32,9 @@ International License. See [https://creativecommons.org/licenses/by-sa/4.0/](htt
 
 **Development Prom-replacement:**
 
-**[Schematic](https://github.com/vossi1/Apple1-prom-development/blob/master/schematic_v10.png)**
+**[Schematic](https://github.com/vossi1/Apple1-prom-development/blob/master/schematic_dev_v10.png)**
 
-**[Parts](https://github.com/vossi1/Apple1-prom-development/blob/master/parts_v10.txt)**
+**[Parts](https://github.com/vossi1/Apple1-prom-development/blob/master/parts_dev_v10.txt)**
 
 ![top](https://github.com/vossi1/Apple1-prom-replacement/blob/master/photos/top_dev.jpg) ![bottom](https://github.com/vossi1/Apple1-prom-replacement/blob/master/photos/bottom_dev.jpg)
 
