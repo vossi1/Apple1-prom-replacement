@@ -8,13 +8,9 @@
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License. See [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-**installed Prom-replacement:**
+**installed Prom-replacement / Development-replacement:**
 
-![prom-replacement](https://github.com/vossi1/Apple1-prom-replacement/blob/master/photos/prom-replacement.jpg)
-
-**installed Development-replacement:**
-
-![prom-development](https://github.com/vossi1/Apple1-prom-replacement/blob/master/photos/prom-development.jpg)
+![prom-replacement](https://github.com/vossi1/Apple1-prom-replacement/blob/master/photos/prom-replacement.jpg) ![prom-development](https://github.com/vossi1/Apple1-prom-replacement/blob/master/photos/prom-development.jpg)
 
 **description:**
 
