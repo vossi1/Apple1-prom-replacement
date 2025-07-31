@@ -21,7 +21,7 @@ International License. See [https://creativecommons.org/licenses/by-sa/4.0/](htt
     - connect GND+A8-A11 on the bottom for 256 bytes image.
     - connect A8-A11 to the Apple1 board for 4KB image (Krusader)
     - Enable Jumper to disable if e.g. IECmem-card holds F000.FFFF ROM
-    - Select Jumper (A12) to switch between 2 Images
+    - Select Jumper (A12) to switch between 2 Images (e.g. my Apple1 Ramtest)
     - A12-A14 Pads to switch between more Images.
 
 **[Schematic](https://github.com/vossi1/Apple1-prom-replacement/blob/master/schematic_v10.png)**
